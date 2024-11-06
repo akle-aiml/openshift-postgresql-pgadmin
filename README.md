@@ -1,0 +1,2 @@
+# openshift-postgresql-pgadmin
+ 
